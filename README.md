@@ -1,4 +1,4 @@
-# Jogo de Agricultura criado em Scratch
+## Jogo de Agricultura criado em Scratch
 Projeto desenvolvido utilizando Scratch para fins educacionais.
 
 ## Acessar Projeto
