@@ -1,15 +1,15 @@
-## Jogo de Agricultura criado em Scratch
+### Jogo de Agricultura criado em Scratch
 Projeto desenvolvido utilizando Scratch para fins educacionais.
 
-## Acessar Projeto
+### Acessar Projeto
 
 🔗https://scratch.mit.edu/projects/1325719038/
 
-## Tecnologias
+### Tecnologias
 
 - Scratch
 - Programação em Blocos
 
-## Captura de Tela
+### Captura de Tela
 
-![Projeto](imagens/agrinho.png)
+![Projeto](agrinho.png)
